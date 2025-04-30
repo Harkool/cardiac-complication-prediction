@@ -32,3 +32,15 @@ Outputs will be stored in `outputs/` directory after training.
 ## 📄 License
 
 MIT License
+
+## 🚀 Deployment (Streamlit + Docker)
+
+You can deploy the web prediction tool locally using Docker:
+
+```bash
+bash launch.sh
+```
+
+Then visit `http://localhost:8501` to interact with the Streamlit app.
+
+Make sure Docker is installed and running.
